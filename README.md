@@ -41,5 +41,5 @@ Data Science Research
 Healthcare Analytics
 
 📫 Contact:
-Email: jjackz1123@gmail.com
+Email: jjackz11234@gmail.com
 GitHub: github.com/jiezhou9

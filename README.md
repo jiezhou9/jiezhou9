@@ -1,45 +1,49 @@
-🎓 Statistics & Data Science student at the University of Illinois Urbana-Champaign (UIUC)
+🎓 Statistics student at the University of Illinois Urbana-Champaign (UIUC)
 
-🔬 Interested in Computational Biostatistics, Biomedical Data Science, Single-Cell Genomics, and Machine Learning
+🔬 Interested in Applied Statistics, Biostatistics, Data Science, and Machine Learning
 
-📊 Currently working on single-cell transcriptomic data analysis through the Keck Graduate Institute (KGI) Summer Undergraduate Research Program
+🧬 Currently working on molecular dynamics simulations of antibody-peptide complexes through the Keck Graduate Institute (KGI) Summer Undergraduate Research Program, analyzing simulation trajectories with GROMACS on HPC clusters
 
-🧬 Research interests:
-Computational Biology
+Research interests:
+
 Biostatistics
 Statistical Learning
-Single-Cell RNA Sequencing (scRNA-seq)
+Computational Biology
+Applied Machine Learning
 Health Data Science
-Precision Medicine
 
 💻 Technical Skills:
+
 Python (Pandas, NumPy, Scikit-learn)
-R (tidyverse, ggplot2)
-SQL
+R
 MATLAB
+Linux Bash / Shell Scripting
+SQL
 Statistical Modeling
 Data Visualization
 
 🌱 Currently learning:
-Scanpy
-Seurat
-Bioinformatics Workflows
+
 Advanced Statistical Learning
-Computational Genomics
+Bayesian Methods
+Big Data Analytics Workflows
 
 📈 Selected Coursework:
+
 Statistical Learning
+Statistical Modeling
 Statistical Data Management
 Big Data Analytics
-Statistical Modeling
 Mathematical Statistics
 
 🤝 Open to collaborations in:
+
 Biostatistics
 Computational Biology
 Data Science Research
 Healthcare Analytics
 
 📫 Contact:
+
 Email: jjackz11234@gmail.com
 GitHub: github.com/jiezhou9
